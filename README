@@ -1,0 +1,19 @@
+**********************
+Overview:
+**********************
+Calculator project using: 
+
+- Arduino Uno and breadboard
+- Ceeco 700-050 12-key numeric keypad
+- Arudino LCD screen
+
+Date:	September 2014
+
+
+**********************
+Features:
+**********************
+- Asterisk button cycles through arithmetic operators.
+- Pound sign performs operation.
+- LED turns on when keypad is connected to breadboard.
+
